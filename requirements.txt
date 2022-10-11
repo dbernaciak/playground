@@ -1,0 +1,8 @@
+scipy
+matplotlib
+seaborn
+numpy
+numba
+joblib
+tqdm
+pandas
